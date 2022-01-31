@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366840372822",
+    "project_id": "notfi-8ae31",
+    "storage_bucket": "notfi-8ae31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366840372822:android:517941d710e123491de5f7",
+        "android_client_info": {
+          "package_name": "com.example.notification_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366840372822-178l90fisg7bql1vo05se7me3tt56len.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA1ur9CR-p4xvdpG18NK2rU7PdqHXcoAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366840372822-178l90fisg7bql1vo05se7me3tt56len.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
